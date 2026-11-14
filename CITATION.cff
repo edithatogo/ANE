@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: 'ANE Training: Backpropagation on Apple Neural Engine'
+authors:
+- family-names: maderix
+- name: ANE contributors
+repository-code: https://github.com/edithatogo/ANE
+url: https://github.com/edithatogo/ANE
+references:
+- type: software
+  title: 'ANE Training: Backpropagation on Apple Neural Engine'
+  authors:
+  - family-names: maderix
+  - name: ANE contributors
+  repository-code: https://github.com/maderix/ANE
+  url: https://github.com/maderix/ANE
